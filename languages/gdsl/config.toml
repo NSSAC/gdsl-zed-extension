@@ -1,4 +1,4 @@
-name = "Graph Dynamical System Language"
+name = "GDSL"
 grammar = "gdsl"
 path_suffixes = ["gdsl"]
 line_comments = ["# "]

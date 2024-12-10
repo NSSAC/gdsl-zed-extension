@@ -1,5 +1,5 @@
-id = "GDSL"
-name = "Graph Dynamical System Language"
+id = "gdsl"
+name = "GDSL"
 version = "0.0.1"
 schema_version = 1
 authors = ["Parantapa Bhattacharya <parantapa@virginia.edu>"]
@@ -8,4 +8,4 @@ repository = "https://github.com/NSSAC/gdsl-zed-extension"
 
 [grammars.gdsl]
 repository = "https://github.com/NSSAC/tree-sitter-gdsl"
-commit = "8c4dbd0"
+commit = "d2a6feffbd885cdbe66824e408af9a6b35c7b21b"

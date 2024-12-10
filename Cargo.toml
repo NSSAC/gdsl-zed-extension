@@ -1,0 +1,16 @@
+[package]
+name = "zed_gdsl"
+version = "0.0.1"
+edition = "2021"
+publish = false
+license = "MIT"
+authors = ["Parantapa Bhattacharya <parantapa@virginia.edu>"]
+description = "GDSL support for Zed editor"
+keywords = ["zed", "gdsl"]
+categories = ["development-tools"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+zed_extension_api = "0.1.0"

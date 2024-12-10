@@ -1,0 +1,11 @@
+id = "GDSL"
+name = "Graph Dynamical System Language"
+version = "0.0.1"
+schema_version = 1
+authors = ["Parantapa Bhattacharya <parantapa@virginia.edu>"]
+description = "GDSL support for Zed editor"
+repository = "https://github.com/NSSAC/gdsl-zed-extension"
+
+[grammars.gdsl]
+repository = "https://github.com/NSSAC/tree-sitter-gdsl"
+commit = "8c4dbd0"
